@@ -1,0 +1,44 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#09090B"/>
+      <stop offset="50%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#09090B"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="footClip">
+      <rect width="1200" height="140" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#footClip)">
+    <rect width="1200" height="140" fill="url(#footBg)"/>
+
+    <g stroke="#4F46E5" stroke-opacity="0.10">
+      <path d="M0 20 H1200"/>
+      <path d="M0 120 H1200"/>
+    </g>
+
+    <rect x="0" y="68" width="1200" height="2" fill="url(#lineGrad)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <circle r="4" fill="#14B8A6">
+      <animateMotion path="M0,69 H1200" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="600" y="45" text-anchor="middle" font-family="Consolas, 'SF Mono', monospace" font-size="13" fill="#94A3B8" letter-spacing="1">
+      thanks for stopping by
+    </text>
+
+    <text x="600" y="100" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4">
+      <tspan fill="#4F46E5">OBSER</tspan><tspan fill="#06B6D4">VER</tspan>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

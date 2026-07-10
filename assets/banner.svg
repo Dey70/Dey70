@@ -1,0 +1,160 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFade" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090B"/>
+      <stop offset="55%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#09090B"/>
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#4F46E5" stroke-opacity="0.14" stroke-width="1"/>
+    </pattern>
+
+    <pattern id="jali" width="64" height="64" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="64" height="64" fill="none"/>
+      <circle cx="32" cy="32" r="18" fill="none" stroke="#14B8A6" stroke-opacity="0.08" stroke-width="1"/>
+      <rect x="14" y="14" width="36" height="36" fill="none" stroke="#14B8A6" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="bannerClip">
+      <rect width="1200" height="320" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+    <rect width="1200" height="320" fill="url(#bgFade)"/>
+    <rect width="1200" height="320" fill="url(#jali)"/>
+
+    <g>
+      <rect width="1200" height="320" fill="url(#grid)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -42 -42; 0 0" dur="14s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <circle cx="180" cy="80" r="160" fill="url(#glow1)">
+      <animate attributeName="cx" values="180;260;180" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="250" r="180" fill="url(#glow2)">
+      <animate attributeName="cy" values="250;180;250" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating glowing particles -->
+    <g fill="#06B6D4">
+      <circle cx="120" cy="60" r="2.2" opacity="0.8">
+        <animate attributeName="cy" values="60;40;60" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.9;0.2" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="260" cy="240" r="1.8" opacity="0.7" fill="#4F46E5">
+        <animate attributeName="cy" values="240;215;240" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="980" cy="70" r="2" opacity="0.6" fill="#14B8A6">
+        <animate attributeName="cy" values="70;95;70" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.9;0.2" dur="8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1100" cy="220" r="2.4" opacity="0.7">
+        <animate attributeName="cy" values="220;190;220" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.9;0.2" dur="10s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="620" cy="35" r="1.6" opacity="0.5" fill="#4F46E5">
+        <animate attributeName="cy" values="35;55;35" dur="5.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.7;0.15" dur="5.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="850" cy="270" r="1.9" opacity="0.6" fill="#06B6D4">
+        <animate attributeName="cy" values="270;250;270" dur="9.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="9.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="380" cy="90" r="1.5" opacity="0.5" fill="#14B8A6">
+        <animate attributeName="cy" values="90;110;90" dur="6.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.7;0.15" dur="6.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- loading strip, top-right corner, AI-inspired -->
+    <g transform="translate(1030,32)" font-family="Consolas, 'SF Mono', monospace" font-size="11" fill="#5EEAD4" opacity="0.85">
+      <text x="0" y="0">SYSTEM.INIT</text>
+      <rect x="0" y="10" width="140" height="3" rx="1.5" fill="#1E293B"/>
+      <rect x="0" y="10" width="0" height="3" rx="1.5" fill="url(#titleGrad)">
+        <animate attributeName="width" values="0;140;140;0" keyTimes="0;0.5;0.85;1" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- main title -->
+    <text x="80" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="url(#titleGrad)" letter-spacing="6">
+      OBSERVER
+      <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+    </text>
+
+    <!-- thin rule under title -->
+    <rect x="82" y="168" width="0" height="2" fill="url(#titleGrad)">
+      <animate attributeName="width" values="0;420" dur="1.2s" begin="0.6s" fill="freeze"/>
+    </rect>
+
+    <!-- cycling role / typing line -->
+    <g font-family="Consolas, 'SF Mono', monospace" font-size="24" fill="#E2E8F0">
+      <text x="84" y="212" opacity="0">
+        &gt; AI Engineer
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.22;0.27" dur="9.6s" begin="1.8s" repeatCount="indefinite"/>
+      </text>
+      <text x="84" y="212" opacity="0">
+        &gt; Web Developer
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.22;0.27" dur="9.6s" begin="4.2s" repeatCount="indefinite"/>
+      </text>
+      <text x="84" y="212" opacity="0">
+        &gt; Open Source Contributor
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.22;0.27" dur="9.6s" begin="6.6s" repeatCount="indefinite"/>
+      </text>
+      <text x="84" y="212" opacity="0">
+        &gt; Systems Thinker
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.22;0.27" dur="9.6s" begin="9s" repeatCount="indefinite"/>
+      </text>
+      <rect x="435" y="196" width="11" height="22" fill="#14B8A6">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- tagline -->
+    <text x="84" y="250" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#94A3B8" letter-spacing="0.5">
+      Building AI products that solve real-world problems.
+    </text>
+
+    <!-- badge chips: AI / Web / Open Source / Developer -->
+    <g font-family="Consolas, 'SF Mono', monospace" font-size="12" font-weight="600">
+      <g transform="translate(84,270)">
+        <rect width="46" height="24" rx="12" fill="#4F46E5" fill-opacity="0.14" stroke="#4F46E5" stroke-opacity="0.5"/>
+        <text x="23" y="16" text-anchor="middle" fill="#A5B4FC">AI</text>
+      </g>
+      <g transform="translate(140,270)">
+        <rect width="60" height="24" rx="12" fill="#06B6D4" fill-opacity="0.14" stroke="#06B6D4" stroke-opacity="0.5"/>
+        <text x="30" y="16" text-anchor="middle" fill="#67E8F9">WEB</text>
+      </g>
+      <g transform="translate(210,270)">
+        <rect width="118" height="24" rx="12" fill="#14B8A6" fill-opacity="0.14" stroke="#14B8A6" stroke-opacity="0.5"/>
+        <text x="59" y="16" text-anchor="middle" fill="#5EEAD4">OPEN SOURCE</text>
+      </g>
+      <g transform="translate(338,270)">
+        <rect width="98" height="24" rx="12" fill="#4F46E5" fill-opacity="0.14" stroke="#4F46E5" stroke-opacity="0.5"/>
+        <text x="49" y="16" text-anchor="middle" fill="#A5B4FC">DEVELOPER</text>
+      </g>
+    </g>
+
+    <!-- fine border -->
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="14" fill="none" stroke="#1E293B" stroke-width="1"/>
+  </g>
+</svg>
