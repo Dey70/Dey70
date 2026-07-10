@@ -1,5 +1,5 @@
 <!--
-  OBSERVER — GitHub Profile README (Stranger Things edition)
+  OBSERVER — GitHub Profile README (Lord of the Mysteries edition)
   ---------------------------------------------------------
   Everything (GitHub handle, LinkedIn, X, email, location,
   project repos) is already filled in with real values. See
@@ -8,39 +8,55 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:E50914,100:FF3131&height=210&section=header&text=Rajdeep%20Dey&fontSize=52&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,35:6B0F1A,70:8A7CA8,100:D4AF37&height=210&section=header&text=Rajdeep%20Dey&fontSize=52&fontColor=E8DCC3&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/Dey70">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2800&pause=900&color=E50914&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Rajdeep+Dey;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Observer+OS;Building+KothaSetu;Preparing+for+GATE+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I'm+Rajdeep+Dey;AI+Engineer;Full+Stack+Developer;Seeker+of+Sequence+0;Open+Source+Contributor;Building+Observer+OS;Preparing+for+GATE+2027" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20DS%20Student-8B0000?style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/GATE-2027-E50914?style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/📍-Guwahati,%20Assam-FF3131?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/AI%20%26%20DS%20Student-9E1B32?style=for-the-badge&labelColor=0A0A0F" />
+<img src="https://img.shields.io/badge/GATE-2027-D4AF37?style=for-the-badge&labelColor=0A0A0F" />
+<img src="https://img.shields.io/badge/📍-Guwahati,%20Assam-8A7CA8?style=for-the-badge&labelColor=0A0A0F" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/🃏_Pathway-The_Seeker-D4AF37?style=flat-square&labelColor=0A0A0F" />
+<img src="https://img.shields.io/badge/Sequence-9-9E1B32?style=flat-square&labelColor=0A0A0F" />
+<img src="https://img.shields.io/badge/Beyonder_Characteristic-Curiosity_%2B_Persistence-8A7CA8?style=flat-square&labelColor=0A0A0F" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E50914" /></a>
-<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=8B0000" /></a>
-<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
+<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=9E1B32" /></a>
+<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=E8DCC3" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dey70&label=Profile+Views&color=8B0000&style=for-the-badge&labelColor=0A0A0A" />
-<img src="https://img.shields.io/github/followers/Dey70?label=Followers&style=for-the-badge&color=E50914&labelColor=0A0A0A" />
-<img src="https://img.shields.io/github/stars/Dey70/Dey70?label=Stars&style=for-the-badge&color=FF3131&labelColor=0A0A0A" />
+<img src="https://komarev.com/ghpvc/?username=Dey70&label=Profile+Views&color=9E1B32&style=for-the-badge&labelColor=0A0A0F" />
+<img src="https://img.shields.io/github/followers/Dey70?label=Followers&style=for-the-badge&color=D4AF37&labelColor=0A0A0F" />
+<img src="https://img.shields.io/github/stars/Dey70/Dey70?label=Stars&style=for-the-badge&color=8A7CA8&labelColor=0A0A0F" />
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-01-0A0A0A?style=flat-square" height="20"/>&nbsp; About
+<div align="center">
+
+### 🕯️ Navigate the Dossier
+
+[The Ledger](#the-ledger) · [The Pathways](#the-pathways) · [Characteristics](#characteristics) · [Case Files](#case-files) · [The Archive](#the-archive) · [Relics](#relics) · [The Chronicle](#the-chronicle) · [The Fog Serpent](#the-fog-serpent) · [Current Ritual](#current-ritual) · [Correspondence](#correspondence)
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-I-0A0A0F?style=flat-square" height="20"/>&nbsp; The Ledger
 
 <table width="100%">
 <tr>
-<td style="border: 1px solid #3D0000; border-radius: 12px; padding: 20px;">
+<td style="border: 1px solid #3D2B12; border-radius: 12px; padding: 20px;">
 
 **AI & Data Science student**, building products end-to-end — from model to interface to the infra in between.
 
@@ -60,27 +76,41 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-02-0A0A0A?style=flat-square" height="20"/>&nbsp; Tech Stack
+## <img src="https://img.shields.io/badge/-II-0A0A0F?style=flat-square" height="20"/>&nbsp; The Pathways
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,c&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,supabase&theme=dark" />
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" />
+<sub>Every Beyonder walks a pathway. Click one open to see what it grants.</sub>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-03-0A0A0A?style=flat-square" height="20"/>&nbsp; AI / ML Expertise
+<details>
+<summary>🃏 &nbsp;<b>The Fool</b> — adaptive, speaks every tongue &nbsp;<i>(Languages)</i></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c&theme=dark" />
+</details>
+
+<details>
+<summary>⚔️ &nbsp;<b>The Warrior</b> — fights on the front line, where it's visible &nbsp;<i>(Frontend)</i></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+</details>
+
+<details>
+<summary>⚓ &nbsp;<b>The Sailor</b> — navigates the depths others don't see &nbsp;<i>(Backend & Databases)</i></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,supabase&theme=dark" />
+</details>
+
+<details>
+<summary>🔭 &nbsp;<b>The Visionary</b> — watches over the whole system &nbsp;<i>(Cloud, DevOps & Tooling)</i></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" />
+</details>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-III-0A0A0F?style=flat-square" height="20"/>&nbsp; Characteristics
+
+<sub>Extraordinary characteristics acquired through study, not ritual.</sub>
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -92,10 +122,14 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-04-0A0A0A?style=flat-square" height="20"/>&nbsp; Featured Projects
+## <img src="https://img.shields.io/badge/-IV-0A0A0F?style=flat-square" height="20"/>&nbsp; Case Files
+
+<sub>Sealed dossiers — click a case to open it.</sub>
+
+<br/>
 
 <details>
-<summary><b>Observer OS</b> — Personal AI performance-coaching operating system</summary>
+<summary>📁 &nbsp;<b>Case File No. I — Observer OS</b> — Personal AI performance-coaching operating system</summary>
 <br/>
 
 | | |
@@ -112,7 +146,7 @@ PWA with OAuth, Apple Health ingestion via Shortcuts, and a registry-based theme
 </details>
 
 <details>
-<summary><b>KothaSetu</b> — Bengali / Nepali / Hindi translation and West Bengal travel platform</summary>
+<summary>📁 &nbsp;<b>Case File No. II — KothaSetu</b> — Bengali / Nepali / Hindi translation and West Bengal travel platform</summary>
 <br/>
 
 | | |
@@ -129,7 +163,7 @@ Live flight and hotel booking via flightapi.io and liteapi.travel, with a Story 
 </details>
 
 <details>
-<summary><b>WebNew</b> — AI-powered website translation platform</summary>
+<summary>📁 &nbsp;<b>Case File No. III — WebNew</b> — AI-powered website translation platform</summary>
 <br/>
 
 | | |
@@ -146,7 +180,7 @@ Translates and localizes full websites on the fly using LLM-driven content pipel
 </details>
 
 <details>
-<summary><b>EduGuardian</b> — AI voice-calling system for parent outreach</summary>
+<summary>📁 &nbsp;<b>Case File No. IV — EduGuardian</b> — AI voice-calling system for parent outreach</summary>
 <br/>
 
 | | |
@@ -164,40 +198,40 @@ Attendance, academic, and behavior risk-tier calling with a persona-driven agent
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-05-0A0A0A?style=flat-square" height="20"/>&nbsp; GitHub Analytics
+## <img src="https://img.shields.io/badge/-V-0A0A0F?style=flat-square" height="20"/>&nbsp; The Archive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dey70&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FF3131&icon_color=E50914&text_color=E5E7EB&border_color=3D0000&hide_border=false&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dey70&theme=dark&background=0A0A0A&stroke=3D0000&ring=E50914&fire=FF3131&currStreakLabel=8B0000&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dey70&show_icons=true&theme=dark&bg_color=0A0A0F&title_color=8A7CA8&icon_color=D4AF37&text_color=E8DCC3&border_color=3D2B12&hide_border=false&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dey70&theme=dark&background=0A0A0F&stroke=3D2B12&ring=D4AF37&fire=8A7CA8&currStreakLabel=9E1B32&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey70&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FF3131&text_color=E5E7EB&border_color=3D0000&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey70&layout=compact&theme=dark&bg_color=0A0A0F&title_color=8A7CA8&text_color=E8DCC3&border_color=3D2B12&hide_border=false" width="49%" />
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-06-0A0A0A?style=flat-square" height="20"/>&nbsp; GitHub Trophies
+## <img src="https://img.shields.io/badge/-VI-0A0A0F?style=flat-square" height="20"/>&nbsp; Relics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dey70&theme=radical&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Dey70)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dey70&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Dey70)
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-07-0A0A0A?style=flat-square" height="20"/>&nbsp; Contribution Activity
+## <img src="https://img.shields.io/badge/-VII-0A0A0F?style=flat-square" height="20"/>&nbsp; The Chronicle
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dey70&theme=react-dark&bg_color=0A0A0A&color=FF3131&line=E50914&point=8B0000&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dey70&theme=react-dark&bg_color=0A0A0F&color=8A7CA8&line=D4AF37&point=9E1B32&hide_border=true" width="100%" />
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-08-0A0A0A?style=flat-square" height="20"/>&nbsp; Contribution Snake
+## <img src="https://img.shields.io/badge/-VIII-0A0A0F?style=flat-square" height="20"/>&nbsp; The Fog Serpent
 
 <div align="center">
 
@@ -213,11 +247,11 @@ Attendance, academic, and behavior risk-tier calling with a persona-driven agent
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-09-0A0A0A?style=flat-square" height="20"/>&nbsp; Current Focus
+## <img src="https://img.shields.io/badge/-IX-0A0A0F?style=flat-square" height="20"/>&nbsp; Current Ritual
 
 ```yaml
-current_focus:
-  learning:
+current_ritual:
+  study:
     - Distributed Systems
     - LLM Internals
     - Operating Systems
@@ -225,11 +259,11 @@ current_focus:
     - Observer OS
     - KothaSetu
     - CallSaathi
-  exploring:
+  divination:
     - AI Agents
     - System Design
     - Vector Databases
-  open_to:
+  pact:
     - Internships in AI/ML or Full-Stack Engineering
     - Open Source Collaboration
     - Research Discussions
@@ -237,23 +271,37 @@ current_focus:
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-10-0A0A0A?style=flat-square" height="20"/>&nbsp; Connect
+<details>
+<summary>🔮 &nbsp;<i>Draw a card before you go</i></summary>
+<br/>
 
 <div align="center">
 
-<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=8B0000" /></a>
-<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E50914" /></a>
-<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
-<a href="https://x.com/Observer_x70"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E5E7EB" /></a>
+<sub>Between the fog and the answer, there is only the Seeker's patience — keep building.</sub>
+
+</div>
+
+</details>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-X-0A0A0F?style=flat-square" height="20"/>&nbsp; Correspondence
+
+<div align="center">
+
+<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0F?style=for-the-badge&logo=gmail&logoColor=9E1B32" /></a>
+<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=E8DCC3" /></a>
+<a href="https://x.com/Observer_x70"><img src="https://img.shields.io/badge/X-0A0A0F?style=for-the-badge&logo=x&logoColor=E8DCC3" /></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<sub>Systems over motivation — ship, measure, iterate.</sub>
+<sub>Curiosity is the only Beyonder pathway that never needs a Sequence to advance.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3131,50:E50914,100:8B0000&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,35:8A7CA8,70:6B0F1A,100:0A0A0F&height=120&section=footer" width="100%" alt="footer" />
 
 <!-- easter egg: if you read the raw markdown this far — the jali pattern behind the banner is a quiet nod home. say hi. -->

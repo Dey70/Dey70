@@ -39,6 +39,27 @@ README rather than filled with placeholder or invented content. Add them
 yourself when you have real details to put in — copy the collapsible
 table pattern used in the Featured Projects section for consistency.
 
+## 5. Themed section names (Lord of the Mysteries edition)
+
+Headings are reskinned but map 1:1 to standard profile-README content:
+
+| Heading | Actual content |
+|---|---|
+| The Ledger | About |
+| The Pathways | Tech Stack (now four collapsible `<details>` cards) |
+| Characteristics | AI / ML Expertise |
+| Case Files | Featured Projects |
+| The Archive | GitHub stats / streak / top languages |
+| Relics | GitHub Trophies |
+| The Chronicle | Contribution activity graph |
+| The Fog Serpent | Contribution snake |
+| Current Ritual | Current Focus (YAML block) |
+| Correspondence | Connect |
+
+The in-page nav links right under the header use `#slug` anchors derived
+from these heading names — if you rename a heading, update its anchor in
+that nav line too, or the link will silently 404 to nowhere on the page.
+
 ## Optional: unused assets
 
 `assets/banner.svg` and `assets/footer.svg` are no longer referenced —
