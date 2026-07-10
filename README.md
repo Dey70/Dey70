@@ -1,5 +1,5 @@
 <!--
-  OBSERVER — GitHub Profile README (purple / indigo / violet edition)
+  OBSERVER — GitHub Profile README (Stranger Things edition)
   ---------------------------------------------------------
   Everything (GitHub handle, LinkedIn, X, email, location,
   project repos) is already filled in with real values. See
@@ -8,39 +8,39 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=210&section=header&text=Rajdeep%20Dey&fontSize=52&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:E50914,100:FF3131&height=210&section=header&text=Rajdeep%20Dey&fontSize=52&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/Dey70">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Rajdeep+Dey;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Observer+OS;Building+KothaSetu;Preparing+for+GATE+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2800&pause=900&color=E50914&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Rajdeep+Dey;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Observer+OS;Building+KothaSetu;Preparing+for+GATE+2027" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20DS%20Student-6366F1?style=for-the-badge&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/GATE-2027-8B5CF6?style=for-the-badge&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/📍-Guwahati,%20Assam-A855F7?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/AI%20%26%20DS%20Student-8B0000?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/GATE-2027-E50914?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/📍-Guwahati,%20Assam-FF3131?style=for-the-badge&labelColor=0A0A0A" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
-<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=6366F1" /></a>
-<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
+<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E50914" /></a>
+<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=8B0000" /></a>
+<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dey70&label=Profile+Views&color=6366F1&style=for-the-badge&labelColor=0D0221" />
-<img src="https://img.shields.io/github/followers/Dey70?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D0221" />
-<img src="https://img.shields.io/github/stars/Dey70/Dey70?label=Stars&style=for-the-badge&color=A855F7&labelColor=0D0221" />
+<img src="https://komarev.com/ghpvc/?username=Dey70&label=Profile+Views&color=8B0000&style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/github/followers/Dey70?label=Followers&style=for-the-badge&color=E50914&labelColor=0A0A0A" />
+<img src="https://img.shields.io/github/stars/Dey70/Dey70?label=Stars&style=for-the-badge&color=FF3131&labelColor=0A0A0A" />
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-01-0D0221?style=flat-square" height="20"/>&nbsp; About
+## <img src="https://img.shields.io/badge/-01-0A0A0A?style=flat-square" height="20"/>&nbsp; About
 
 <table width="100%">
 <tr>
-<td style="border: 1px solid #1E1033; border-radius: 12px; padding: 20px;">
+<td style="border: 1px solid #3D0000; border-radius: 12px; padding: 20px;">
 
 **AI & Data Science student**, building products end-to-end — from model to interface to the infra in between.
 
@@ -60,7 +60,7 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-02-0D0221?style=flat-square" height="20"/>&nbsp; Tech Stack
+## <img src="https://img.shields.io/badge/-02-0A0A0A?style=flat-square" height="20"/>&nbsp; Tech Stack
 
 **Languages**
 
@@ -80,7 +80,7 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-03-0D0221?style=flat-square" height="20"/>&nbsp; AI / ML Expertise
+## <img src="https://img.shields.io/badge/-03-0A0A0A?style=flat-square" height="20"/>&nbsp; AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -92,7 +92,7 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-04-0D0221?style=flat-square" height="20"/>&nbsp; Featured Projects
+## <img src="https://img.shields.io/badge/-04-0A0A0A?style=flat-square" height="20"/>&nbsp; Featured Projects
 
 <details>
 <summary><b>Observer OS</b> — Personal AI performance-coaching operating system</summary>
@@ -164,40 +164,40 @@ Attendance, academic, and behavior risk-tier calling with a persona-driven agent
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-05-0D0221?style=flat-square" height="20"/>&nbsp; GitHub Analytics
+## <img src="https://img.shields.io/badge/-05-0A0A0A?style=flat-square" height="20"/>&nbsp; GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dey70&show_icons=true&theme=dark&bg_color=0D0221&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB&border_color=1E1033&hide_border=false&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dey70&theme=dark&background=0D0221&stroke=1E1033&ring=8B5CF6&fire=A855F7&currStreakLabel=6366F1&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dey70&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FF3131&icon_color=E50914&text_color=E5E7EB&border_color=3D0000&hide_border=false&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dey70&theme=dark&background=0A0A0A&stroke=3D0000&ring=E50914&fire=FF3131&currStreakLabel=8B0000&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey70&layout=compact&theme=dark&bg_color=0D0221&title_color=A855F7&text_color=E5E7EB&border_color=1E1033&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dey70&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FF3131&text_color=E5E7EB&border_color=3D0000&hide_border=false" width="49%" />
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-06-0D0221?style=flat-square" height="20"/>&nbsp; GitHub Trophies
+## <img src="https://img.shields.io/badge/-06-0A0A0A?style=flat-square" height="20"/>&nbsp; GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dey70&theme=dracula&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Dey70)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dey70&theme=radical&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Dey70)
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-07-0D0221?style=flat-square" height="20"/>&nbsp; Contribution Activity
+## <img src="https://img.shields.io/badge/-07-0A0A0A?style=flat-square" height="20"/>&nbsp; Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dey70&theme=react-dark&bg_color=0D0221&color=A855F7&line=8B5CF6&point=6366F1&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dey70&theme=react-dark&bg_color=0A0A0A&color=FF3131&line=E50914&point=8B0000&hide_border=true" width="100%" />
 
 </div>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-08-0D0221?style=flat-square" height="20"/>&nbsp; Contribution Snake
+## <img src="https://img.shields.io/badge/-08-0A0A0A?style=flat-square" height="20"/>&nbsp; Contribution Snake
 
 <div align="center">
 
@@ -213,7 +213,7 @@ Attendance, academic, and behavior risk-tier calling with a persona-driven agent
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-09-0D0221?style=flat-square" height="20"/>&nbsp; Current Focus
+## <img src="https://img.shields.io/badge/-09-0A0A0A?style=flat-square" height="20"/>&nbsp; Current Focus
 
 ```yaml
 current_focus:
@@ -237,14 +237,14 @@ current_focus:
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-10-0D0221?style=flat-square" height="20"/>&nbsp; Connect
+## <img src="https://img.shields.io/badge/-10-0A0A0A?style=flat-square" height="20"/>&nbsp; Connect
 
 <div align="center">
 
-<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=6366F1" /></a>
-<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
-<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
-<a href="https://x.com/Observer_x70"><img src="https://img.shields.io/badge/X-0D0221?style=for-the-badge&logo=x&logoColor=E5E7EB" /></a>
+<a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=8B0000" /></a>
+<a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E50914" /></a>
+<a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
+<a href="https://x.com/Observer_x70"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E5E7EB" /></a>
 
 </div>
 
@@ -254,6 +254,6 @@ current_focus:
 <sub>Systems over motivation — ship, measure, iterate.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3131,50:E50914,100:8B0000&height=120&section=footer" width="100%" alt="footer" />
 
 <!-- easter egg: if you read the raw markdown this far — the jali pattern behind the banner is a quiet nod home. say hi. -->
