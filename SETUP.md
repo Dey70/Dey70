@@ -1,6 +1,6 @@
 # Setup
 
-This profile works immediately after pushing, once you do two things:
+This profile works immediately after pushing.
 
 ## 1. Repository name
 
@@ -8,19 +8,7 @@ This must live in a repository named exactly like your username:
 `Dey70/Dey70`. GitHub only renders a
 profile README from that special repo.
 
-## 2. Replace placeholders
-
-Find & replace across `README.md`:
-
-| Placeholder        | Replace with                       |
-| ------------------- | ----------------------------------- |
-| `YOUR_PORTFOLIO_URL` | your portfolio URL                 |
-| `YOUR_LOCATION`      | your city / region, e.g. "Kolkata, India" |
-
-Everything else (GitHub handle, LinkedIn, X, email, and the four
-project repository links) already points at real, live values.
-
-## 3. Enable the snake workflow (one-time)
+## 2. Enable the snake workflow (one-time)
 
 The contribution snake needs Actions to run once before it appears:
 
@@ -34,7 +22,7 @@ The contribution snake needs Actions to run once before it appears:
    `dist/snake-dark.svg`, and `dist/snake-light.svg` — already referenced
    in the README, so no further edits are needed.
 
-## 4. Stats cards
+## 3. Stats cards
 
 The GitHub stats, streak stats, top languages, activity graph, and trophy
 images call public hosted APIs (`github-readme-stats`, `github-readme-streak-stats`,
@@ -43,7 +31,7 @@ just your username in the URL — no deploy of your own instance required.
 If you ever hit their rate limits, each project has instructions for
 deploying a free personal instance on Vercel.
 
-## 5. Sections intentionally left out
+## 4. Sections intentionally left out
 
 Experience, Achievements, Certifications, and Coding Profile (LeetCode /
 GeeksforGeeks / HackerRank / CodeChef) sections were left out of this

@@ -1,15 +1,9 @@
 <!--
   OBSERVER — GitHub Profile README (purple / indigo / violet edition)
   ---------------------------------------------------------
-  Before pushing, find & replace the following placeholders
-  across this file (Ctrl+Shift+H in most editors):
-
-    YOUR_PORTFOLIO_URL     -> your portfolio site
-    YOUR_LOCATION          -> your city / region, e.g. "Kolkata, India"
-
-  Everything else (GitHub handle, LinkedIn, X, email, project
-  repos) is already filled in with real values. See SETUP.md
-  for the one-time steps (repo name, snake workflow).
+  Everything (GitHub handle, LinkedIn, X, email, location,
+  project repos) is already filled in with real values. See
+  SETUP.md for the one-time steps (repo name, snake workflow).
 -->
 
 <div align="center">
@@ -24,11 +18,10 @@
 
 <img src="https://img.shields.io/badge/AI%20%26%20DS%20Student-6366F1?style=for-the-badge&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/GATE-2027-8B5CF6?style=for-the-badge&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/📍-YOUR_LOCATION-A855F7?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/📍-Guwahati,%20Assam-A855F7?style=for-the-badge&labelColor=0D0221" />
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
 <a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
 <a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=6366F1" /></a>
 <a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
@@ -251,7 +244,6 @@ current_focus:
 <a href="mailto:rajdeep.x70@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=6366F1" /></a>
 <a href="https://www.linkedin.com/in/rajdeep-dey-188784289/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
 <a href="https://github.com/Dey70"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=E5E7EB" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
 <a href="https://x.com/Observer_x70"><img src="https://img.shields.io/badge/X-0D0221?style=for-the-badge&logo=x&logoColor=E5E7EB" /></a>
 
 </div>
